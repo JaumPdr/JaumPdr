@@ -17,10 +17,6 @@
 
 ##
 
-![Snake animation](https://github.com/JaumPdr/JaumPdr/blob/output/github-contribuition-grid-snake.svg)
-
-##
-
 I code therefore I am..👨‍💻💭
 
 
