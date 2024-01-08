@@ -21,5 +21,6 @@ I code therefore I am..👨‍💻💭
 
 ##
 
+![snake gif](https://github.com/SEU_USUARIO/JaumPdr/blob/output/github-contribution-grid-snake.svg)
 
 
