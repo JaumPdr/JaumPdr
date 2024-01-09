@@ -20,7 +20,8 @@
 I code therefore I am..👨‍💻💭
 
 ##
+<p align="center"> 
 
-![snake gif](https://github.com/JaumPdr/JaumPdr/blob/output/github-contribution-grid-snake.svg)
-
+  ![Snake animation](https://github.com/JaumPdr/JaumPdr/blob/output/github-contribution-grid-snake.svg)
+ </p>
 
