@@ -24,8 +24,5 @@
 I code therefore I am..👨‍💻💭
 
 ##
-<p align="center"> 
 
-  ![Snake animation](https://github.com/JaumPdr/JaumPdr/blob/output/github-contribution-grid-snake.svg)
- </p>
 
