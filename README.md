@@ -1,6 +1,6 @@
 <img widht=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300%&size=35&duration=4000&pause=1000&color=0000CD&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+João+Pedro;I'm+21+years+old;I'm+a+systems+analysis+and+development+student;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300%&size=35&duration=4000&pause=1000&color=0000CD&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+João+Pedro;I'm+23+years+old;I'm+a+systems+analysis+and+development+student;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 ##
 
@@ -18,6 +18,7 @@
   <img align="center" alt="Jaum-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jaum-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jaum-Java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Jaum-SQL" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jaum-SQL" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
