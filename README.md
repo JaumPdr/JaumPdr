@@ -7,8 +7,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaum_oli/?igsh=MW9jd2d5MW9sM2VIdw%3D%3D&utm_source=qr)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-17383b186/)
 
-![JaumPdr GitHub stats](https://github-readme-stats.vercel.app/api?username=JaumPdr&show_icons=true&theme=algolia)
-
 ## Technologies I'm learning:
 
 <div style="display: inline_block"><br>
